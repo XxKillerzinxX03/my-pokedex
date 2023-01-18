@@ -1,4 +1,4 @@
-# desafio-pokedex
+# My Pokedex
 
 Uma pokedex baseada na que foi reproduzida no bootcamp da DIO
 
